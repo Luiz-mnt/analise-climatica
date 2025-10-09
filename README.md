@@ -1,4 +1,4 @@
-# Analise Climática Interativa
+# Análise Climática Interativa
 
 Ferramenta em Python para explorar um conjunto histórico de dados climáticos no terminal. O script carrega um arquivo CSV com registros diários, permite aplicar filtros por período, calcula estatísticas de precipitação e temperatura e gera um gráfico de barras em modo texto para acompanhar a evolução das temperaturas mínimas ao longo dos anos.
 
