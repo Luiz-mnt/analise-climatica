@@ -6,12 +6,12 @@ Ferramenta em Python para explorar um conjunto histórico de dados climáticos n
 - Leitura de dados meteorológicos (data, precipitação, temp. maxima, temp. minima, umidade, vento).
 - Visualização de intervalos por mês e ano, com seleção de colunas de interesse.
 - Identificação do mês/ano com maior acumulado de chuva.
-- Cálculo de médias das temperaturas minimas para um mes entre 2006 e 2016.
-- Gráfico textual das medias anuais da temperatura mínima.
+- Cálculo de médias das temperaturas mínimas para um mês entre 2006 e 2016.
+- Gráfico textual das médias anuais da temperatura mínima.
 
 ## Requisitos
 - Python 3.8 ou superior.
-- Arquivo `dados_climaticos_historicos.csv` na mesma pasta do script e com cabecalho no formato:
+- Arquivo `dados_climaticos_historicos.csv` na mesma pasta do script e com cabeçalho no formato:
 
   ```
   data,precipitacao,temp_max,temp_min,umidade,vento
@@ -23,7 +23,7 @@ Ferramenta em Python para explorar um conjunto histórico de dados climáticos n
 python analise_climatica_interativa.py
 ```
 
-Siga os passos apresentados no terminal: informe o periodo desejado, escolha os dados que deseja visualizar, selecione um mês por extenso para a análise de temperatura mánima e avalie o gráfico textual gerado.
+Siga os passos apresentados no terminal: informe o período desejado, escolha os dados que deseja visualizar, selecione um mês por extenso para a análise de temperatura mánima e avalie o gráfico textual gerado.
 
 ## Estrutura
 - `analise_climatica_interativa.py`: script principal com toda a lógica de análise.
