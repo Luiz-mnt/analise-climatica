@@ -23,7 +23,7 @@ Ferramenta em Python para explorar um conjunto histórico de dados climáticos n
 python analise_climatica_interativa.py
 ```
 
-Siga os passos apresentados no terminal: informe o período desejado, escolha os dados que deseja visualizar, selecione um mês por extenso para a análise de temperatura mánima e avalie o gráfico textual gerado.
+Siga os passos apresentados no terminal: informe o período desejado, escolha os dados que deseja visualizar, selecione um mês por extenso para a análise de temperatura mínima e avalie o gráfico textual gerado.
 
 ## Estrutura
 - `analise_climatica_interativa.py`: script principal com toda a lógica de análise.
